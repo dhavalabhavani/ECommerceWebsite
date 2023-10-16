@@ -1,0 +1,9 @@
+com\mycompany\e\commerce\website\Order.class
+com\mycompany\e\commerce\website\Product.class
+com\mycompany\e\commerce\website\ECommerceWebSite.class
+com\mycompany\e\commerce\website\OrderService.class
+com\mycompany\e\commerce\website\UserService.class
+com\mycompany\e\commerce\website\ProductService.class
+com\mycompany\e\commerce\website\User.class
+com\mycompany\e\commerce\website\CartService.class
+com\mycompany\e\commerce\website\CartItem.class
